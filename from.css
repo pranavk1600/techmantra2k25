@@ -1,0 +1,24 @@
+  *{
+  margin: 0;
+  padding: 0;
+  /* background: #0c0f12; */
+  }
+ .form{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+        background-color:burlywood;
+        border-radius: 10px;
+        width: 300px;
+        height: 400px;
+        margin: 20px auto;
+     }
+     .form input{
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        border: 1px solid #ccc;
+     }
